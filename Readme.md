@@ -7,7 +7,7 @@
 повернуты вверх одной и той же стороной. Выведите минимальное
 количество монет, которые нужно перевернуть.
 
-[Code](HeadsOrTails\HeadsOrTails.py)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_12/tree/master/HeadsOrTails/HeadsOrTails.py)
 
 
 ## Задача 12
@@ -17,10 +17,10 @@
 этого Петя делает две подсказки. Он называет сумму этих чисел S и их
 произведение P. Помогите Кате отгадать задуманные Петей числа.
 
-[Code](AdditionAndMultiplication\AdditionAndMultiplication.py)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_12/tree/master/AdditionAndMultiplication/AdditionAndMultiplication.py)
 
 
 ## Задача 14 
 Требуется вывести все целые степени двойки (т.е. числа вида 2k), не превосходящие числа N.
 
-[Code](PowersOfTwoLessThanN\PowersOfTwoLessThanN.py)
+[Code](https://github.com/EvgeniiaTogochakova/Some_tasks_12/blob/master/PowersOfTwoLessThanN/PowersOfTwoLessThanN.py)
