@@ -21,6 +21,6 @@
 
 
 ## Задача 14 
-Требуется вывести все целые степени двойки (т.е. числа вида 2k), не превосходящие числа N.
+Требуется вывести все целые степени двойки (т.е. числа вида 2^k), не превосходящие числа N.
 
 [Code](https://github.com/EvgeniiaTogochakova/Some_tasks_12/blob/master/PowersOfTwoLessThanN/PowersOfTwoLessThanN.py)
