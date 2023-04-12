@@ -6,11 +6,13 @@
 # 5 -> 1 0 1 1 0
 # 2
 
+import random
+
 n = int(input('Сколько монеток лежит на столе? '))
 coins = [0]*n
 print('0 - это решка, 1 - это орел')
 for i in range(n):
-    coins[i] = int(input(f'Монетка № {i+1}: '))
+    coins[i] = random.randint(0,1)
 print(coins)
 count_0 = 0
 count_1 = 0
